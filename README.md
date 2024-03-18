@@ -1,5 +1,5 @@
 # UnrealEngine---Terrain-Generator
-Dynamic, real-time terrain generator for Unreal Engine. It uses both, C++ and Blueprint system to make it user-friendly with C++ flexibility.
+Dynamic, real-time terrain generator for Unreal Engine. It uses both, C++ and Blueprint system to make it user-friendly with C++ flexibility. Generated map is splitted into chunks, which are unloaded if player gets too far from chunk (like in Minecraft). Once generated chunk stays generated, when player enters same area again, chunks are loaded from the memory, they are only generated on the first pass.
 
 # Preview
 
