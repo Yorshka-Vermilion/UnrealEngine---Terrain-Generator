@@ -3,6 +3,12 @@ Dynamic, real-time terrain generator for Unreal Engine. It uses both, C++ and Bl
 
 # Preview
 
+### Screens
+
+![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/4495deaa-ebd4-4993-af4b-16cdcb15e57b)
+![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/b41fbd1d-47da-45ca-a2c6-48a466fde466)
+![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/4d67ebec-9821-4236-b8b9-4d14d7eb9392)
+
 ### Real-time
 
 https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/48ec50c4-b6fc-45e2-ab62-c9375f8c88ab
@@ -10,12 +16,6 @@ https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/595
 ### Wireframe
 
 https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/9997c1d9-045a-4886-aa50-3e26e12efca0
-
-### Screens
-
-![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/4495deaa-ebd4-4993-af4b-16cdcb15e57b)
-![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/b41fbd1d-47da-45ca-a2c6-48a466fde466)
-![obraz](https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/4d67ebec-9821-4236-b8b9-4d14d7eb9392)
 
 # Usage:
 
