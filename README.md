@@ -3,9 +3,13 @@ Dynamic, real-time terrain generator for Unreal Engine. It uses both, C++ and Bl
 
 # Preview
 
-### Wiremesh
-
 ### Real-time
+
+https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/48ec50c4-b6fc-45e2-ab62-c9375f8c88ab
+
+### Wireframe
+
+https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator/assets/59543577/9997c1d9-045a-4886-aa50-3e26e12efca0
 
 ### Screens
 
